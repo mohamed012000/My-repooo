@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +12,8 @@ namespace ConsoleApp3
         {
             Console.WriteLine("hellooooo guys");
             Console.WriteLine( "hellooo morsy" );
+            Console.WriteLine("Hello Morsy");
+
         }
     }
 }
