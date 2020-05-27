@@ -11,6 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("hellooooo guys");
+            Console.WriteLine( "hellooo morsy" );
         }
     }
 }
